@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Dawn Season 4",
-	"Version": 1770355037,
+	"Version": 1771195558,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -209,6 +209,7 @@
 				"96",
 				"102",
 				"109",
+				"121",
 				"127",
 				"128"
 			],
@@ -855,8 +856,8 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				177,
-				178
+				178,
+				174
 			],
 			"ItemWhitelist": [
 				0,
