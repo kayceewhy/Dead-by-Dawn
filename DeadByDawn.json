@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Dawn Season 4",
-	"Version": 1771965009,
+	"Version": 1773508645,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -296,7 +296,9 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				14
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -308,7 +310,10 @@
 					"Addons": []
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1
+					]
 				},
 				"Key": {
 					"Addons": []
@@ -1170,7 +1175,10 @@
 					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						1
+					]
 				},
 				"Key": {
 					"Addons": []
