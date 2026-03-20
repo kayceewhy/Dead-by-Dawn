@@ -1,12 +1,13 @@
 {
 	"Name": "Dead by Dawn Season 4",
-	"Version": 1773773800,
+	"Version": 1773966889,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
 		{
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
+				"306",
 				"3",
 				"285",
 				"6",
@@ -37,6 +38,8 @@
 				"268",
 				"267",
 				"46",
+				"307",
+				"308",
 				"49",
 				"55",
 				"274",
