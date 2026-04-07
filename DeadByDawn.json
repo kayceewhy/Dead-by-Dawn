@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Dawn Season 4",
-	"Version": 1775594533,
+	"Version": 1775596648,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -554,7 +554,7 @@
 				"Toolbox": {
 					"Addons": [
 						0,
-						1
+						2
 					]
 				},
 				"Key": {
@@ -1747,7 +1747,7 @@
 				"Toolbox": {
 					"Addons": [
 						0,
-						1
+						2
 					]
 				},
 				"Key": {
