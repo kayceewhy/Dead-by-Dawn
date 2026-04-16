@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Dawn Season 4",
-	"Version": 1776063378,
+	"Version": 1776367887,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1687,7 +1687,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "2 Vigo's Shroud must be brought!",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"4",
