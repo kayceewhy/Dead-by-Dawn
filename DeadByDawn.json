@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Dawn Season 4",
-	"Version": 1778137282,
+	"Version": 1780514323,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -28,6 +28,7 @@
 				"24",
 				"60",
 				"301",
+				"286",
 				"288",
 				"33",
 				"248",
@@ -67,6 +68,7 @@
 				"98",
 				"99",
 				"100",
+				"103",
 				"275",
 				"106",
 				"110",
@@ -2987,9 +2989,7 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"220"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -3004,7 +3004,8 @@
 				815,
 				817,
 				818,
-				806
+				806,
+				811
 			],
 			"ItemWhitelist": [
 				0,
